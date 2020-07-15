@@ -1,1 +1,1 @@
-# Extensions.MySql
+# SubSonic.Core.Extensions.MySql
